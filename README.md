@@ -48,3 +48,11 @@ REFERENCES
 4) Python Libraries: Pandas, Numpy, Matplotlib
 5) Research papers on clustering and recommendation systems
 6) Tutorials on K-Means algorithm and unsupervised learning
+
+OUTPUT:
+
+<img width="558" height="219" alt="image" src="https://github.com/user-attachments/assets/abcd42c8-46f9-4251-b100-2cf3d2296c0e" />
+
+
+
+
